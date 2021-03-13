@@ -1,3 +1,1 @@
-ls
-git status
-def,ekffkkef
+hello world
